@@ -144,6 +144,21 @@ Aerosmith	Pump	1989	My Girl
 Aerosmith	Pump	1989	Don't Get Mad, Get Even
 Aerosmith	Pump	1989	(Hoodoo) Voodoo Medicine Man
 Aerosmith	Pump	1989	What It Takes
+Aerosmith	Get A Grip	1993	Intro
+Aerosmith	Get A Grip	1993	Eat The Rich
+Aerosmith	Get A Grip	1993	Get A Grip
+Aerosmith	Get A Grip	1993	Fever
+Aerosmith	Get A Grip	1993	Livin' On The Edge
+Aerosmith	Get A Grip	1993	Flesh
+Aerosmith	Get A Grip	1993	Walk On Down
+Aerosmith	Get A Grip	1993	Shut Up And Dance
+Aerosmith	Get A Grip	1993	Cryin'
+Aerosmith	Get A Grip	1993	Gotta Love It
+Aerosmith	Get A Grip	1993	Crazy
+Aerosmith	Get A Grip	1993	Line Up
+Aerosmith	Get A Grip	1993	Can't Stop Messin'
+Aerosmith	Get A Grip	1993	Amazing
+Aerosmith	Get A Grip	1993	Boogie Man
 Aerosmith	Big Ones	1994	Walk On Water
 Aerosmith	Big Ones	1994	Love In An Elevator
 Aerosmith	Big Ones	1994	Rag Doll
@@ -187,21 +202,6 @@ Aerosmith	Just Push Play	2001	Drop Dead Gorgeous
 Aerosmith	Just Push Play	2001	Light Inside
 Aerosmith	Just Push Play	2001	Avant Garden
 Aerosmith	Just Push Play	2001	Face
-Aerosmith	Get A Grip	1993	Intro
-Aerosmith	Get A Grip	1993	Eat The Rich
-Aerosmith	Get A Grip	1993	Get A Grip
-Aerosmith	Get A Grip	1993	Fever
-Aerosmith	Get A Grip	1993	Livin' On The Edge
-Aerosmith	Get A Grip	1993	Flesh
-Aerosmith	Get A Grip	1993	Walk On Down
-Aerosmith	Get A Grip	1993	Shut Up And Dance
-Aerosmith	Get A Grip	1993	Cryin'
-Aerosmith	Get A Grip	1993	Gotta Love It
-Aerosmith	Get A Grip	1993	Crazy
-Aerosmith	Get A Grip	1993	Line Up
-Aerosmith	Get A Grip	1993	Can't Stop Messin'
-Aerosmith	Get A Grip	1993	Amazing
-Aerosmith	Get A Grip	1993	Boogie Man
 Alice Cooper	Welcome To My Nightmare	1975	Welcome To My Nightmare
 Alice Cooper	Welcome To My Nightmare	1975	Devil's Food
 Alice Cooper	Welcome To My Nightmare	1975	The Black Widow
@@ -232,22 +232,6 @@ Alice Cooper	Hell Is	2003	Cleansed by Fire
 Alice Cooper	Hell Is	2003	Fire
 Alice Cooper	Hell Is	2003	Go to Hell (live)
 Alice Cooper	Hell Is	2003	School's Out (live)
-Animals	The Most Of The Animals	1966	House Of The Rising Sun
-Animals	The Most Of The Animals	1966	We've Gotta Get Out Of This Place
-Animals	The Most Of The Animals	1966	Roadrunner
-Animals	The Most Of The Animals	1966	Let The Good Times Roll
-Animals	The Most Of The Animals	1966	Hallelujah I Love Her So
-Animals	The Most Of The Animals	1966	I'm Going To Change The World
-Animals	The Most Of The Animals	1966	Bring It On Home To Me
-Animals	The Most Of The Animals	1966	Worried Life Blues
-Animals	The Most Of The Animals	1966	Baby Let Me Take You Home
-Animals	The Most Of The Animals	1966	For Miss Caulker
-Animals	The Most Of The Animals	1966	I Believe To My Soul
-Animals	The Most Of The Animals	1966	How You've Changed
-Animals	The Most Of The Animals	1966	Don't Let Me Be Misunderstood
-Animals	The Most Of The Animals	1966	It's My Life
-Animals	The Most Of The Animals	1966	Club A Go Go
-Animals	The Most Of The Animals	1966	I'm Crying
 George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	One Bourbon, One Scotch, One Beer
 George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	Move It On Over
 George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	House Of Blue Lights
@@ -359,6 +343,22 @@ John Lee Hooker	Boogie Man - The Blues Collection 1	1993	This Is Hip
 John Lee Hooker	Boogie Man - The Blues Collection 1	1993	Goin' Mad Blues
 John Lee Hooker	Boogie Man - The Blues Collection 1	1993	Wandering Blues
 John Lee Hooker	Boogie Man - The Blues Collection 1	1993	House Rent Boogie
+Animals	The Most Of The Animals	1966	House Of The Rising Sun
+Animals	The Most Of The Animals	1966	We've Gotta Get Out Of This Place
+Animals	The Most Of The Animals	1966	Roadrunner
+Animals	The Most Of The Animals	1966	Let The Good Times Roll
+Animals	The Most Of The Animals	1966	Hallelujah I Love Her So
+Animals	The Most Of The Animals	1966	I'm Going To Change The World
+Animals	The Most Of The Animals	1966	Bring It On Home To Me
+Animals	The Most Of The Animals	1966	Worried Life Blues
+Animals	The Most Of The Animals	1966	Baby Let Me Take You Home
+Animals	The Most Of The Animals	1966	For Miss Caulker
+Animals	The Most Of The Animals	1966	I Believe To My Soul
+Animals	The Most Of The Animals	1966	How You've Changed
+Animals	The Most Of The Animals	1966	Don't Let Me Be Misunderstood
+Animals	The Most Of The Animals	1966	It's My Life
+Animals	The Most Of The Animals	1966	Club A Go Go
+Animals	The Most Of The Animals	1966	I'm Crying
 Treatment	Running With The Dogs	2014	I Bleed Rock + Roll
 Treatment	Running With The Dogs	2014	Drop Like A Stone
 Treatment	Running With The Dogs	2014	Get The Party On

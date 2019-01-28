@@ -144,21 +144,6 @@ Aerosmith	Pump	1989	My Girl
 Aerosmith	Pump	1989	Don't Get Mad, Get Even
 Aerosmith	Pump	1989	(Hoodoo) Voodoo Medicine Man
 Aerosmith	Pump	1989	What It Takes
-Aerosmith	Get A Grip	1993	Intro
-Aerosmith	Get A Grip	1993	Eat The Rich
-Aerosmith	Get A Grip	1993	Get A Grip
-Aerosmith	Get A Grip	1993	Fever
-Aerosmith	Get A Grip	1993	Livin' On The Edge
-Aerosmith	Get A Grip	1993	Flesh
-Aerosmith	Get A Grip	1993	Walk On Down
-Aerosmith	Get A Grip	1993	Shut Up And Dance
-Aerosmith	Get A Grip	1993	Cryin'
-Aerosmith	Get A Grip	1993	Gotta Love It
-Aerosmith	Get A Grip	1993	Crazy
-Aerosmith	Get A Grip	1993	Line Up
-Aerosmith	Get A Grip	1993	Can't Stop Messin'
-Aerosmith	Get A Grip	1993	Amazing
-Aerosmith	Get A Grip	1993	Boogie Man
 Aerosmith	Big Ones	1994	Walk On Water
 Aerosmith	Big Ones	1994	Love In An Elevator
 Aerosmith	Big Ones	1994	Rag Doll
@@ -378,6 +363,21 @@ Treatment	Running With The Dogs	2014	No Matter What
 Treatment	Running With The Dogs	2014	In My Chair
 Treatment	Running With The Dogs	2014	Running With The Dogs (Acoustic)
 Treatment	Running With The Dogs	2014	I Bleed Rock + Roll (Acoustic)
+Aerosmith	Get A Grip	1993	Intro
+Aerosmith	Get A Grip	1993	Eat The Rich
+Aerosmith	Get A Grip	1993	Get A Grip
+Aerosmith	Get A Grip	1993	Fever
+Aerosmith	Get A Grip	1993	Livin' On The Edge
+Aerosmith	Get A Grip	1993	Flesh
+Aerosmith	Get A Grip	1993	Walk On Down
+Aerosmith	Get A Grip	1993	Shut Up And Dance
+Aerosmith	Get A Grip	1993	Cryin'
+Aerosmith	Get A Grip	1993	Gotta Love It
+Aerosmith	Get A Grip	1993	Crazy
+Aerosmith	Get A Grip	1993	Line Up
+Aerosmith	Get A Grip	1993	Can't Stop Messin'
+Aerosmith	Get A Grip	1993	Amazing
+Aerosmith	Get A Grip	1993	Boogie Man
 T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	Telegram Sam
 T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	Metal Guru
 T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	Children Of The Revolution
