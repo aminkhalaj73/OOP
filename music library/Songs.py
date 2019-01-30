@@ -4,7 +4,7 @@ class Song:
 
         Attributes :
                 Title(str) : the title of the song
-                Artist(object) : An artist object represent song creator
+                Artist(str) : The name of the song creator
                 Duration(int) : The duration of the song in seconds my be zero
         """
 
@@ -21,13 +21,18 @@ class Song:
                 self.artist = artist
                 self.duration = duration
 
+        def get_title(self):
+                return self.title
+
+        name = property(get_title)
+
 class Album:
         """Class to represent an Album , using it's track list
         
         Attributes:
                 Album_name(str) : The name of the Album
                 Year(int) : The year album was released
-                Artist(artist(object)) : THe artist responsible for album
+                Artist(str) : The name of the artist responsible for album
                         if not specified , the artist will default to an artist
                         with the name "various Artist" 
                 tracks(List[Songs]): A list of the Songs in Album
@@ -38,7 +43,7 @@ class Album:
                 self.name = name
                 self.year = year
                 if artist is None:
-                        self.artist = artist("Various Artists")
+                        self.artist = "Various Artists"
                 else:
                         self.artist = artist
 
@@ -48,15 +53,18 @@ class Album:
                 """Adds a song to the track list
                 
                 Args
-                        song(song(object)) : A song to add.
+                        song(song(object)) :The title of  a song to add.
                         Position(optional[int]) : IF specified , the song wiil be added to that posiition
-                        in the track list - Inserting it between other songs if necessary
-                        Otherwise, the song will be added to the end of the list
+                                in the track list - Inserting it between other songs if necessary
+                                Otherwise, the song will be added to the end of the list
                 """
-                if position is None :
-                        self.tracks.append(song)
-                else:
-                        self.tracks.insert(position , song)
+                song_found = find_object(song , self.tracks)
+                if song_found is None:
+                        song_found = Song(song , self.artist)
+                        if position is None :
+                                self.tracks.append(song_found)
+                        else:
+                                self.tracks.insert(position , song_found)
 
 class Artist:
         """Basic class to store artist details.
@@ -94,7 +102,7 @@ class Artist:
                 album_found = find_object(name , self.albums)
                 if album_found is None :
                         print(name + " not found")
-                        album_found = Album(name , year , self)
+                        album_found = Album(name , year , self.name)
                         self.Add_album(album_found)
                 else:
                         print("Found album" + name)
@@ -124,7 +132,7 @@ def load_data():
                                 new_artist = Artist(artist_field)
                                 artist_list.append(new_artist)
 
-                        new_artist.Add_album(album_field, year_field , song_field)
+                        new_artist.Add_song(album_field, year_field , song_field)
 
         return artist_list
 
